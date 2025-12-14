@@ -43,7 +43,7 @@ export default function Home() {
               {/* SOCIAL ICONS */}
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/username"
+                  href="https://github.com/binggierashel"
                   target="_blank"
                   aria-label="GitHub"
                   className="text-gray-400 hover:text-white transition hover:scale-110"
@@ -52,7 +52,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="https://linkedin.com/in/username"
+                  href="https://www.linkedin.com/in/binggie-rashel-prasetyo/"
                   target="_blank"
                   aria-label="LinkedIn"
                   className="text-blue-500 hover:text-blue-400 transition hover:scale-110"
@@ -61,7 +61,7 @@ export default function Home() {
                 </a>
 
                 <a
-                  href="https://instagram.com/username"
+                  href="https://instagram.com/binggiershl"
                   target="_blank"
                   aria-label="Instagram"
                   className="text-pink-500 hover:text-pink-400 transition hover:scale-110"
@@ -69,7 +69,7 @@ export default function Home() {
                   <FontAwesomeIcon icon={faInstagram} size="2xl" />
                 </a>
                 <a
-                  href="https://facebook.com/username"
+                  href="https://facebook.com/binggierashel"
                   target="_blank"
                   aria-label="Facebook"
                   className="text-blue-500 hover:text-blue-400 transition hover:scale-110"
